@@ -1,1 +1,3 @@
-#Athena
+# team6_2
+To run our program please navigate to the directory containing the Project2GUI.java and use the command "javac -cp /usr/java/jre1.8.0_131/lib/ext/:/usr/java/jre1.8.0_131/lib/ Project2GUI.java" to compile and then the command "java Project2GUI" to run. Make sure you have Xming running if you are on a windows machine using putty, and also make sure X11 forwarding is enabled in putty. From there the GUI will load and the instructions for the program will be present.
+We also included the programs we used to train the neural net and get the resulting weights. They are NNRunner.java and NeuralNetwork.java.
